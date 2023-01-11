@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ## I'm a Husband, Father, Designer/Developer
 
 - 🔭 I'm currently working on a private economics project
-- 🌱 Currently brushing up on JS, but also learning everything 🤣
-- 🥅 2022 Goals: Learn more about developing on blockchains, dapps and JS
-- ⚡ Fun fact: I helped build the UI/UX portals that most UK whitelabel travel insurers base their designs around
+- 🌱 Currently brushing up on Python and Solidity, but also learning everything 🤣
+- 🥅 2023 Goals: Learn more about developing on blockchains, dapps and algorithms
+- ⚡ Fun fact: I helped build the initial UI/UX portals that most UK whitelabel travel insurers base their designs around
 - 😻 Creating digital art via A.I thanks to Colab.
 
 ### Connect with me:
