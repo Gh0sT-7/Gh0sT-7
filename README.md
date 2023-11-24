@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on a private economics project
 - 🌱 Currently brushing up on Python and Solidity, but also learning everything 🤣
-- 🥅 2023 Goals: Learn more about developing on blockchains, dapps and algorithms
+- 🥅 2024 Goals: Learn more about developing A.I. agents and algorithms
 - ⚡ Fun fact: I helped build the initial UI/UX portals that most UK whitelabel travel insurers base their designs around
 - 😻 Creating digital art via A.I thanks to Colab.
 
