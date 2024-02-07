@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 
 ## I'm a Husband, Father, Designer/Developer
 
-- 🔭 I'm currently working on a private economics project
-- 🌱 Currently brushing up on Python and Solidity, but also learning everything 🤣
+- 🔭 I'm currently working on a private economics project build in Python
+- 🌱 Currently brushing up on the latest in ReactJs, but also being a student of life 🤣
 - 🥅 2024 Goals: Learn more about developing A.I. agents and algorithms
-- ⚡ Fun fact: I helped build the initial UI/UX portals that most UK whitelabel travel insurers base their designs around
+- ⚡ Fun fact: I helped with the UI/UX design of the portals that most UK whitelabel travel insurers base their designs around
 - 😻 Creating digital art via A.I thanks to Colab.
 
 ### Connect with me:
